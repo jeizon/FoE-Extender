@@ -1,8 +1,9 @@
 [
-	"neverland.min",
-	"redux.min",
-	"bootstrap.min",
-	"bootstrap.bundle.min",
-	"download.min",
-	"jszip.min"
+  "hacktimer.min",
+  "neverland.min",
+  "redux.min",
+  "bootstrap.min",
+  "bootstrap.bundle.min",
+  "download.min",
+  "jszip.min"
 ]
